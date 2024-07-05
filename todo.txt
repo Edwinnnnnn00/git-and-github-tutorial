@@ -19,4 +19,5 @@ Git Command
 4. git remote add origin https://github.com/...
 5. git branch -M main
 6. git push -u origin main
-7. git checkout -b test //switch to a newly created branch
+7. git checkout -b test 
+//switch to a newly created branch, -b means create new branch
