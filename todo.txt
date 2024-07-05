@@ -7,3 +7,11 @@ MY TO-DO LIST
 5. Visit aunt.
 6. Apply for remote jobs.
 7. Practice code
+
+Git Command
+1. git init 
+2. git add .
+3. git commit -m "message"
+4. git remote add origin https://github.com/...
+5. git branch -M main
+6. git push -u origin main
