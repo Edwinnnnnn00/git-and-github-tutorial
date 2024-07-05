@@ -7,6 +7,10 @@ MY TO-DO LIST
 5. Visit aunt.
 6. Apply for remote jobs.
 7. Practice code
+8. Complete internship task.
+9. Practice chess openings.
+10. Solve chess puzzles.
+11. Check exam schedule. 
 
 Git Command
 1. git init 
@@ -15,3 +19,4 @@ Git Command
 4. git remote add origin https://github.com/...
 5. git branch -M main
 6. git push -u origin main
+7. git checkout -b test //switch to a newly created branch
