@@ -21,3 +21,4 @@ Git Command
 6. git push -u origin main
 7. git checkout -b test 
 //switch to a newly created branch, -b means create new branch
+8. git pull origin master
